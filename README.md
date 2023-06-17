@@ -30,6 +30,9 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
+## Links
+- [Link do site](https://discover-desafio-final-nt1xy2v50-wellingtonaquino22.vercel.app/)
+
 ## 💻 Telas
 
 <p align="center">
